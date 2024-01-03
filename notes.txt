@@ -1,5 +1,5 @@
 - JABAR OPENWEATHER
-
+https://lucid.app/lucidchart/2fbcbccd-000e-4f28-acc6-d7ccd3cec466/edit?viewport_loc=-3794%2C-1449%2C11124%2C5368%2C0_0&invitationId=inv_8af926be-e60a-49ec-8dd2-fdaa0e1c2c88
 ==Prerquisites
     - source ../env_airflow/bin/activate
     - export AIRFLOW_HOME=/home/ahyar/Documents/tut_folder/tut_python/python_script/tut_airflow/airflow-project1/
