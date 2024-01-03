@@ -1,0 +1,15 @@
+- JABAR OPENWEATHER
+
+==Prerquisites
+    - source ../env_airflow/bin/activate
+    - export AIRFLOW_HOME=/home/ahyar/Documents/tut_folder/tut_python/python_script/tut_airflow/airflow-project1/
+- install apache-airflow-providers-postgres
+- rm db and run 'airflow db init'
+- use airflow.models.variable import Variable to set variable 
+- craete a single method to extract and load the data 
+- create a fact table for the data 
+- create dimensional model of the data 
+- table model : https://drive.google.com/file/d/1tkfubB0Zqv2sx_bx97m404lP3YMMTMi4/view?usp=sharing
+- ETL process : https://drive.google.com/file/d/1925SEeo5P8h-PHBiKr4JKTVP_OUeiZOt/view?usp=sharing
+- username : ahyar
+- password : shanpark203_
